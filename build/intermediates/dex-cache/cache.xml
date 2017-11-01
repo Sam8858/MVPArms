@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.android/build-cache/e33e7a30a8fb111cab06732e269c2b65bee913d2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/classes_811affe36c844b1506d748a827b169c557323beb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.8.1/bc373fb6bc7bca3035041b924f158fd2b946ee8d/butterknife-annotations-8.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.8.1_d5b747dac1a7ed247590f57f6e823a9cc747a47c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/retrofit-2.3.0_85e7a7e2e2aad5bf6818000c6836db942605c5e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.9.0/1b6c10b5120995a7542c1a31b7828fb8593c8ba/okhttp-3.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="01b6c10b5120995a7542c1a31b7828fb8593c8ba">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/okhttp-3.9.0_029b3837ff3c250c0761e46583ee9e45eeb0b917.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.android/build-cache/6084189223ffa518fcb9b13ece51953aa7a84753/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="84553b857e3ffa63966cd0f0dfb4d789bbefa410">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/classes_dcd2541dd66fdf8cfe31a53ee721d10ac403ea32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.android/build-cache/bee93f18fc6e783aa02bdfb7a1871108957ce4c4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/classes_8e3f895a24b3b2de63e29b0c5b735a28179b6621.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.android/build-cache/8743ca0cda71b04bc85a8411fb815b5233121897/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b2cb5e4ead4034da3903770c55334c257b874dbb">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/classes_5bd58b5b0e4071483040878a18b2f446c0663aff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.1/1b1c911686eb40179219466e6a59b634b9d7a748/reactive-streams-1.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1b1c911686eb40179219466e6a59b634b9d7a748">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/reactive-streams-1.0.1_d846ea9b43d73ed7fc7cadea9c876695c7a6e8bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.android/build-cache/565491f61ff8bff2a4c4141bbf610918e81715ef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/classes_c8a18e9b679cb86940bc780349871cfeefacc71b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/common-1.0.0_704feba50c60178361b2f514e4f8599bf3189647.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-analyzer/1.5.1/77e5213b6ac5b323616a7bd283763bd60c0b3f6f/leakcanary-analyzer-1.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="77e5213b6ac5b323616a7bd283763bd60c0b3f6f">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/leakcanary-analyzer-1.5.1_db201aa0bc622d2e5e80fdad8985f68c4f924c17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/Documents/AndroidSource/MVPArms/arms/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e87d5b99db34ed3684c3fcca2a49cdcc0da518cc">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/classes_b6915171ea57f2f2cce14aa0eefd0971ad2dba7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/okio-1.13.0_2469dadc587afd913a8ef4b548db78857f00b929.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.gradle/caches/modules-2/files-2.1/com.trello.rxlifecycle2/rxlifecycle/2.1.0/ceb847e21d527d2ef285cd3dd187379220ffb223/rxlifecycle-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ceb847e21d527d2ef285cd3dd187379220ffb223">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/rxlifecycle-2.1.0_8f7feb70ad40d22f6c440b49ceeac6a0b5006b41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.gradle/caches/modules-2/files-2.1/com.squareup.haha/haha/2.0.3/640a438d2d415c056ca6a673ac26b183b044e160/haha-2.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="640a438d2d415c056ca6a673ac26b183b044e160">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/haha-2.0.3_2ee1af890c512f827562057c477ba17e228ce92c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.android/build-cache/dcfa2c50b657543cff23190af42192eaec1e42cd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/classes_135722e39e198899a2886fb2a3625d92577f454e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.android/build-cache/1538066b9752b2448eac7b27ffdd344def2dd3cb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/classes_76c0a429578981098e6fdc0b30cf421f449dc49f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.android/build-cache/20b1de402db66c095d42b75082469c9d13f14fa2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1ea58209ecfdfb0e3638629517ac5ae279136e07">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/classes_9438e3dac8b11d34cd0128dfb773649324413cab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.android/build-cache/3c735638feacd06546caac4b4890ea6dc7ce3ee4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/classes_34ef63ce35999aa3df9081fd815138f62366af12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.android/build-cache/8e4f44173fda6ef4901587b8b6a93983879fc0c5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fe03e79c796c9b2615a2ec315e61333834448560">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/classes_23466adc6808877b49018cdb549042863f287024.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.android/build-cache/b7fbd327e6fc86ad6393847b9bc0b0698835aa06/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/classes_20526950dabe9d122450f114154d2cd9d9427fe0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/gifdecoder/4.0.0/47c487cc4e64e6ab127a517669ca9a7b49f8c61d/gifdecoder-4.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47c487cc4e64e6ab127a517669ca9a7b49f8c61d">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/gifdecoder-4.0.0_c6a6a99342bc36f796707d83103ea2c3fd2d1bc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/c6a633c63607f09f77f424b5c52522a7607cedae/rxjava-2.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c6a633c63607f09f77f424b5c52522a7607cedae">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/rxjava-2.1.3_cd3a3c6eb5f4a90b5267d110d4874c93e8de1c74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.android/build-cache/168bd1ab406274356a96f4142d31a8a9feb7a0d4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/classes_9978165ee286683d986d11a4e2ad71c6e6e033c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-watcher/1.5.1/3d719b7e20a11415d409e6c29a34a643c560fc6f/leakcanary-watcher-1.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3d719b7e20a11415d409e6c29a34a643c560fc6f">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/leakcanary-watcher-1.5.1_524c8a924646324a64498c16afbaff591c4621d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/common-1.0.0_12f2f7d0ebf37b3d92c24f4875a35c1062e615cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.android/build-cache/fbf3e646ef8b4d4d8fd48462477b91ebf74059f7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/classes_cea9de8a259be89ddbaa2fe2a41c6d46481aab9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.android/build-cache/fd798ae94d8b88b03f5f88f5ae87d8762debf109/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/classes_6b16c7d349ea944a3115aa965fdc7b36fda4cdbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.3.0/9e09011e9767bb76b5e27c9b8223476b93b14631/converter-gson-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/converter-gson-2.3.0_eb2c7c871f110423d572554a4b2306ae3120766d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.android/build-cache/5db4ee4f6df7cd722d3657dfa09c38158cc4ea8d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/classes_bf61fb494e3d2b1bbfb9326e70d0f95cd08c9739.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.gradle/caches/modules-2/files-2.1/com.github.VictorAlbertos.RxCache/runtime/1.8.1-2.x/fbefa0b05f9bd9349bbe5e442062780880914ae/runtime-1.8.1-2.x.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0fbefa0b05f9bd9349bbe5e442062780880914ae">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/runtime-1.8.1-2.x_714e88b17f172c8c3163d6a4eb3f4a92e236f4ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.0.0/f80192e6fd828d41c7da6f3552b0bef5d89cb26e/annotations-4.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f80192e6fd828d41c7da6f3552b0bef5d89cb26e">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/annotations-4.0.0_6ed3050c591d23ff1866ef7a4ef0f498cf15a0fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.gradle/caches/modules-2/files-2.1/com.github.VictorAlbertos.RxCache/core/1.8.1-2.x/ad6de9b13b0c85d909655faa12b02a0b712bfecf/core-1.8.1-2.x.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ad6de9b13b0c85d909655faa12b02a0b712bfecf">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/core-1.8.1-2.x_10c6a7d6c4ad8a65dab59092463156c03819df38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.android/build-cache/63fca5d76184c0c9e247144f43afc85ceffb999c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a1589af4546e0299f3e0c77de3215ecfd3a0e19d">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/classes_d5c34f3312690ab879a45437ef67fc1bc0a0c839.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.gradle/caches/modules-2/files-2.1/com.github.VictorAlbertos.Jolyglot/common/0.0.3/25accaf0d3e57c6aec91ecd418c7a5cb2cd60040/common-0.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="25accaf0d3e57c6aec91ecd418c7a5cb2cd60040">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/common-0.0.3_583a8359c0394f3409c4bc8d23986e5caa0f7f56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.android/build-cache/fd13ec8eac888c50bd2f589d2add65b206b58ac3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/classes_b18a4e30484f85d686118cb37e9ddb3f5a3a0c0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.1/2a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0/gson-2.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="02a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/gson-2.8.1_3c49641cd9117ee7bba67d063b0ab078c34f4e0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.android/build-cache/35d39e09033ce05d380636e8b69af2dc24a11a55/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/classes_73931acd946cca254205a5bf487bd50d5870db98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.android/build-cache/5f5df002711edf15c04feac6381d81f44b5165c8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9b69b69f0f434b79d767329fcf1ca6ba1540c509">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/classes_7f3b9e48d5ddab1f9b73574c69f2b4d37151d5fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_60b0e305509731c33faf2c3cb2d21fd91e091e97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.gradle/caches/modules-2/files-2.1/com.github.VictorAlbertos.Jolyglot/api/0.0.3/6576f5a0b4a58c4e245bea1ac5dec8ecd859aa02/api-0.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6576f5a0b4a58c4e245bea1ac5dec8ecd859aa02">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/api-0.0.3_d0addd91600a6cd8da7498787409a10fbddf9563.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.android/build-cache/682c92ba2025bef757840a5fda94df9e31083ac9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c74c28a44292b6480afe69ddb2c0974f45393a3a">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/classes_06329d634d6359a29f53b4bfabdd93256cf41043.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.android/build-cache/5e870e3330b176e44bbd70ecbc6bc45205c4a8e0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c9630706335cdd15258938115c0ffe72ef2f24da">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/classes_04416a908da3b23dee4b9a98b339a66f8e7e6970.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.android/build-cache/dd3027a31056f6d45620222c9ccf877422dc9406/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/classes_e79c5784d2fd6c53b52f7da46d443471156637e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.11/95037eaee68aa48021511972e9db9ba29916e1c9/dagger-2.11.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="95037eaee68aa48021511972e9db9ba29916e1c9">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/dagger-2.11_b3881c0ab9bd7010b57f28cc6ca0fcd0bf60c208.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.android/build-cache/3989715ed282ef9f0d1a1406fa9f2c4112695e15/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4fbaa84da04e25bb7812592814026101d20dbc91">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/classes_9658274389249c7baa07ddcee38c8f634242e8e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/javax.inject-1_8daca188b3754389284b0ea4a8a2828502497ca7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/disklrucache/4.0.0/d88059003509074dd59fa226c822724bcf5ec0ca/disklrucache-4.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d88059003509074dd59fa226c822724bcf5ec0ca">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/disklrucache-4.0.0_9737e7a4d5046f810394543f8359a99cbe69bd56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.android/build-cache/206896e97052b71ea3eafd0ad54ba5a90dd3da1b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/classes_224970da53397dd9f8cf00e0c191533478a03eca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.0.0/dff931af436f0a2815d0109ab2258bbce2d6275d/glide-4.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dff931af436f0a2815d0109ab2258bbce2d6275d">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/glide-4.0.0_3c37d8d22cbf131655bb391e886f2d84d70e0e8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.gradle/caches/modules-2/files-2.1/org.glassfish/javax.annotation/10.0-b28/30eb3b3cc9cb0863a4edaea5a7575f8ace1b96ba/javax.annotation-10.0-b28.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="30eb3b3cc9cb0863a4edaea5a7575f8ace1b96ba">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/javax.annotation-10.0-b28_8f89ad94976f7ab3b9d945fddef6e19cb54bd1f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.android/build-cache/fb5e209841279bb8948d2046adbbaf5a996e1127/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/classes_7e6f2e2dbaa4c8d4486ea09c25a939e942062783.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava2/2.3.0/f436637f9500ab5b8bc32afe556373180894b4a5/adapter-rxjava2-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f436637f9500ab5b8bc32afe556373180894b4a5">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/adapter-rxjava2-2.3.0_847f916d2401cb01fb396b929b3925551f74097a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.android/build-cache/bda38479355fbb1a63cbbea50ab57e2b0344918e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="239bbc360f222b90822c6f85f6ff203d57763382">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/classes_f9356a857874c3e5f2d023b04b4d6650a7f70590.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ming/.gradle/caches/modules-2/files-2.1/com.github.VictorAlbertos.Jolyglot/gson/0.0.3/6d77f513f3c54f41c0fcc95557669e547aee0b43/gson-0.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6d77f513f3c54f41c0fcc95557669e547aee0b43">
+        <dex dex="/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/pre-dexed/debug/gson-0.0.3_357a1760c60c4418c74547268cce8494c758179e.jar" />
+    </item>
+
+</items>

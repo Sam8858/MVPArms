@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="retrofit-url-manager-1.1.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/20b1de402db66c095d42b75082469c9d13f14fa2/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/20b1de402db66c095d42b75082469c9d13f14fa2/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.jessyan/retrofit-url-manager/1.1.0/edf864f3a079ae5fde51041ffc334effc6213213/retrofit-url-manager-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

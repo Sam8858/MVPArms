@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/ming/Documents/AndroidSource/MVPArms/arms/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/ming/.android/build-cache/dcfa2c50b657543cff23190af42192eaec1e42cd/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/ming/Documents/AndroidSource/MVPArms/arms/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_action.xml",
+        "source": "/Users/ming/.android/build-cache/dcfa2c50b657543cff23190af42192eaec1e42cd/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/ming/Documents/AndroidSource/MVPArms/arms/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/ming/.android/build-cache/dcfa2c50b657543cff23190af42192eaec1e42cd/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/ming/Documents/AndroidSource/MVPArms/arms/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/ming/.android/build-cache/dcfa2c50b657543cff23190af42192eaec1e42cd/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

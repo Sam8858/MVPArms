@@ -1,0 +1,211 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml:3:11-44
+		INJECTED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml:6:5-80
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ming/.android/build-cache/3989715ed282ef9f0d1a1406fa9f2c4112695e15/output/AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml:7:5-79
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ming/.android/build-cache/3989715ed282ef9f0d1a1406fa9f2c4112695e15/output/AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml:8:5-78
+	android:name
+		ADDED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml:9:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml:10:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml:11:5-74
+	android:name
+		ADDED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml:11:22-72
+application
+ADDED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml:13:5-43:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/ming/.android/build-cache/35d39e09033ce05d380636e8b69af2dc24a11a55/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/ming/.android/build-cache/fb5e209841279bb8948d2046adbbaf5a996e1127/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/ming/.android/build-cache/206896e97052b71ea3eafd0ad54ba5a90dd3da1b/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/ming/.android/build-cache/565491f61ff8bff2a4c4141bbf610918e81715ef/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/ming/.android/build-cache/5db4ee4f6df7cd722d3657dfa09c38158cc4ea8d/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/ming/.android/build-cache/bee93f18fc6e783aa02bdfb7a1871108957ce4c4/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/ming/.android/build-cache/dd3027a31056f6d45620222c9ccf877422dc9406/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/ming/.android/build-cache/168bd1ab406274356a96f4142d31a8a9feb7a0d4/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:design:26.1.0] /Users/ming/.android/build-cache/b7fbd327e6fc86ad6393847b9bc0b0698835aa06/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/ming/.android/build-cache/fd798ae94d8b88b03f5f88f5ae87d8762debf109/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/ming/.android/build-cache/1538066b9752b2448eac7b27ffdd344def2dd3cb/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:transition:26.1.0] /Users/ming/.android/build-cache/e33e7a30a8fb111cab06732e269c2b65bee913d2/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/ming/.android/build-cache/dcfa2c50b657543cff23190af42192eaec1e42cd/output/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/ming/.android/build-cache/fbf3e646ef8b4d4d8fd48462477b91ebf74059f7/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.4] /Users/ming/.android/build-cache/8743ca0cda71b04bc85a8411fb815b5233121897/output/AndroidManifest.xml:11:5-20
+MERGED from [com.jakewharton.timber:timber:4.5.1] /Users/ming/.android/build-cache/682c92ba2025bef757840a5fda94df9e31083ac9/output/AndroidManifest.xml:8:5-20
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ming/.android/build-cache/3989715ed282ef9f0d1a1406fa9f2c4112695e15/output/AndroidManifest.xml:26:5-55:19
+	android:label
+		ADDED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml:17:9-41
+	android:supportsRtl
+		ADDED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml:18:9-35
+	android:allowBackup
+		ADDED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml:16:9-43
+	android:theme
+		ADDED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml:19:9-40
+	android:name
+		ADDED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml:14:9-58
+activity#me.jessyan.mvparms.demo.mvp.ui.activity.UserActivity
+ADDED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml:20:19-63
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml:22:17-68
+	android:name
+		ADDED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml:24:17-76
+	android:name
+		ADDED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml:24:27-74
+meta-data#design_width
+ADDED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml:31:9-33:35
+	android:value
+		ADDED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml:33:13-33
+	android:name
+		ADDED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml:32:13-40
+meta-data#design_height
+ADDED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml:34:9-36:35
+	android:value
+		ADDED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml:36:13-33
+	android:name
+		ADDED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml:35:13-41
+meta-data#me.jessyan.mvparms.demo.app.GlobalConfiguration
+ADDED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml:39:9-41:43
+	android:value
+		ADDED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml:41:13-41
+	android:name
+		ADDED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml:40:13-75
+uses-sdk
+INJECTED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/ming/.android/build-cache/35d39e09033ce05d380636e8b69af2dc24a11a55/output/AndroidManifest.xml:20:5-44
+MERGED from [me.jessyan:progressmanager:1.3.3] /Users/ming/.android/build-cache/5e870e3330b176e44bbd70ecbc6bc45205c4a8e0/output/AndroidManifest.xml:7:5-9:41
+MERGED from [me.jessyan:retrofit-url-manager:1.1.0] /Users/ming/.android/build-cache/20b1de402db66c095d42b75082469c9d13f14fa2/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.markomilos:paginate:0.5.1] /Users/ming/.android/build-cache/bda38479355fbb1a63cbbea50ab57e2b0344918e/output/AndroidManifest.xml:6:5-43
+MERGED from [me.jessyan:arms:2.2.3] /Users/ming/Documents/AndroidSource/MVPArms/arms/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:26.1.0] /Users/ming/.android/build-cache/fb5e209841279bb8948d2046adbbaf5a996e1127/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/ming/.android/build-cache/206896e97052b71ea3eafd0ad54ba5a90dd3da1b/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/ming/.android/build-cache/565491f61ff8bff2a4c4141bbf610918e81715ef/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/ming/.android/build-cache/5db4ee4f6df7cd722d3657dfa09c38158cc4ea8d/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/ming/.android/build-cache/bee93f18fc6e783aa02bdfb7a1871108957ce4c4/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/ming/.android/build-cache/dd3027a31056f6d45620222c9ccf877422dc9406/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/ming/.android/build-cache/168bd1ab406274356a96f4142d31a8a9feb7a0d4/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:26.1.0] /Users/ming/.android/build-cache/b7fbd327e6fc86ad6393847b9bc0b0698835aa06/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/ming/.android/build-cache/fd798ae94d8b88b03f5f88f5ae87d8762debf109/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/ming/.android/build-cache/1538066b9752b2448eac7b27ffdd344def2dd3cb/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:transition:26.1.0] /Users/ming/.android/build-cache/e33e7a30a8fb111cab06732e269c2b65bee913d2/output/AndroidManifest.xml:20:5-44
+MERGED from [com.zhy:autolayout:1.4.5] /Users/ming/.android/build-cache/5f5df002711edf15c04feac6381d81f44b5165c8/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/ming/.android/build-cache/3c735638feacd06546caac4b4890ea6dc7ce3ee4/output/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-compat:26.1.0] /Users/ming/.android/build-cache/dcfa2c50b657543cff23190af42192eaec1e42cd/output/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/ming/.android/build-cache/fbf3e646ef8b4d4d8fd48462477b91ebf74059f7/output/AndroidManifest.xml:20:5-22:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/ming/.android/build-cache/fd13ec8eac888c50bd2f589d2add65b206b58ac3/output/AndroidManifest.xml:19:5-43
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-android:2.1.0] /Users/ming/.android/build-cache/63fca5d76184c0c9e247144f43afc85ceffb999c/output/AndroidManifest.xml:17:5-44
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.4] /Users/ming/.android/build-cache/8743ca0cda71b04bc85a8411fb815b5233121897/output/AndroidManifest.xml:7:5-9:41
+MERGED from [me.jessyan:rxerrorhandler:2.1.0] /Users/ming/.android/build-cache/6084189223ffa518fcb9b13ece51953aa7a84753/output/AndroidManifest.xml:7:5-9:41
+MERGED from [org.simple:androideventbus:1.0.5.1] /Users/ming/.android/build-cache/8e4f44173fda6ef4901587b8b6a93983879fc0c5/output/AndroidManifest.xml:7:5-9:40
+MERGED from [com.jakewharton.timber:timber:4.5.1] /Users/ming/.android/build-cache/682c92ba2025bef757840a5fda94df9e31083ac9/output/AndroidManifest.xml:6:5-43
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ming/.android/build-cache/3989715ed282ef9f0d1a1406fa9f2c4112695e15/output/AndroidManifest.xml:20:5-44
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/ming/.android/build-cache/fb5e209841279bb8948d2046adbbaf5a996e1127/output/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ming/Documents/AndroidSource/MVPArms/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:26.1.0] /Users/ming/.android/build-cache/35d39e09033ce05d380636e8b69af2dc24a11a55/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/ming/.android/build-cache/fb5e209841279bb8948d2046adbbaf5a996e1127/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/ming/.android/build-cache/206896e97052b71ea3eafd0ad54ba5a90dd3da1b/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/ming/.android/build-cache/565491f61ff8bff2a4c4141bbf610918e81715ef/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/ming/.android/build-cache/5db4ee4f6df7cd722d3657dfa09c38158cc4ea8d/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/ming/.android/build-cache/bee93f18fc6e783aa02bdfb7a1871108957ce4c4/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/ming/.android/build-cache/dd3027a31056f6d45620222c9ccf877422dc9406/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/ming/.android/build-cache/168bd1ab406274356a96f4142d31a8a9feb7a0d4/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:design:26.1.0] /Users/ming/.android/build-cache/b7fbd327e6fc86ad6393847b9bc0b0698835aa06/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/ming/.android/build-cache/fd798ae94d8b88b03f5f88f5ae87d8762debf109/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/ming/.android/build-cache/1538066b9752b2448eac7b27ffdd344def2dd3cb/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] /Users/ming/.android/build-cache/e33e7a30a8fb111cab06732e269c2b65bee913d2/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/ming/.android/build-cache/dcfa2c50b657543cff23190af42192eaec1e42cd/output/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:cardview-v7:26.1.0] /Users/ming/.android/build-cache/35d39e09033ce05d380636e8b69af2dc24a11a55/output/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:cardview-v7:26.1.0] /Users/ming/.android/build-cache/35d39e09033ce05d380636e8b69af2dc24a11a55/output/AndroidManifest.xml:24:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/ming/.android/build-cache/fbf3e646ef8b4d4d8fd48462477b91ebf74059f7/output/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/ming/.android/build-cache/fbf3e646ef8b4d4d8fd48462477b91ebf74059f7/output/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/ming/.android/build-cache/fbf3e646ef8b4d4d8fd48462477b91ebf74059f7/output/AndroidManifest.xml:26:13-58
+service#com.squareup.leakcanary.internal.HeapAnalyzerService
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ming/.android/build-cache/3989715ed282ef9f0d1a1406fa9f2c4112695e15/output/AndroidManifest.xml:27:9-30:45
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ming/.android/build-cache/3989715ed282ef9f0d1a1406fa9f2c4112695e15/output/AndroidManifest.xml:29:13-36
+	android:process
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ming/.android/build-cache/3989715ed282ef9f0d1a1406fa9f2c4112695e15/output/AndroidManifest.xml:30:13-42
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ming/.android/build-cache/3989715ed282ef9f0d1a1406fa9f2c4112695e15/output/AndroidManifest.xml:28:13-80
+service#com.squareup.leakcanary.DisplayLeakService
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ming/.android/build-cache/3989715ed282ef9f0d1a1406fa9f2c4112695e15/output/AndroidManifest.xml:31:9-33:39
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ming/.android/build-cache/3989715ed282ef9f0d1a1406fa9f2c4112695e15/output/AndroidManifest.xml:33:13-36
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ming/.android/build-cache/3989715ed282ef9f0d1a1406fa9f2c4112695e15/output/AndroidManifest.xml:32:13-70
+activity#com.squareup.leakcanary.internal.DisplayLeakActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ming/.android/build-cache/3989715ed282ef9f0d1a1406fa9f2c4112695e15/output/AndroidManifest.xml:35:9-47:20
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ming/.android/build-cache/3989715ed282ef9f0d1a1406fa9f2c4112695e15/output/AndroidManifest.xml:37:13-36
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ming/.android/build-cache/3989715ed282ef9f0d1a1406fa9f2c4112695e15/output/AndroidManifest.xml:39:13-71
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ming/.android/build-cache/3989715ed282ef9f0d1a1406fa9f2c4112695e15/output/AndroidManifest.xml:38:13-54
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ming/.android/build-cache/3989715ed282ef9f0d1a1406fa9f2c4112695e15/output/AndroidManifest.xml:41:13-63
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ming/.android/build-cache/3989715ed282ef9f0d1a1406fa9f2c4112695e15/output/AndroidManifest.xml:40:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ming/.android/build-cache/3989715ed282ef9f0d1a1406fa9f2c4112695e15/output/AndroidManifest.xml:36:13-80
+activity#com.squareup.leakcanary.internal.RequestStoragePermissionActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ming/.android/build-cache/3989715ed282ef9f0d1a1406fa9f2c4112695e15/output/AndroidManifest.xml:48:9-54:68
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ming/.android/build-cache/3989715ed282ef9f0d1a1406fa9f2c4112695e15/output/AndroidManifest.xml:50:13-36
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ming/.android/build-cache/3989715ed282ef9f0d1a1406fa9f2c4112695e15/output/AndroidManifest.xml:52:13-82
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ming/.android/build-cache/3989715ed282ef9f0d1a1406fa9f2c4112695e15/output/AndroidManifest.xml:51:13-54
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ming/.android/build-cache/3989715ed282ef9f0d1a1406fa9f2c4112695e15/output/AndroidManifest.xml:54:13-65
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ming/.android/build-cache/3989715ed282ef9f0d1a1406fa9f2c4112695e15/output/AndroidManifest.xml:53:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.1] /Users/ming/.android/build-cache/3989715ed282ef9f0d1a1406fa9f2c4112695e15/output/AndroidManifest.xml:49:13-93

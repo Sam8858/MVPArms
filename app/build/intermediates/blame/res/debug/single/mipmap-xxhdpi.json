@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/ming/Documents/AndroidSource/MVPArms/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ming/Documents/AndroidSource/MVPArms/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_arrow_back_white_24dp.png",
+        "source": "/Users/ming/Documents/AndroidSource/MVPArms/app/src/main/res/mipmap-xxhdpi/ic_arrow_back_white_24dp.png"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/ming/Documents/AndroidSource/MVPArms/arms/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/ming/.android/build-cache/bee93f18fc6e783aa02bdfb7a1871108957ce4c4/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/ming/Documents/AndroidSource/MVPArms/arms/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/ming/.android/build-cache/bee93f18fc6e783aa02bdfb7a1871108957ce4c4/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/ming/Documents/AndroidSource/MVPArms/arms/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/ming/.android/build-cache/b7fbd327e6fc86ad6393847b9bc0b0698835aa06/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/ming/Documents/AndroidSource/MVPArms/arms/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/ming/.android/build-cache/dcfa2c50b657543cff23190af42192eaec1e42cd/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/ming/Documents/AndroidSource/MVPArms/arms/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/ming/.android/build-cache/bee93f18fc6e783aa02bdfb7a1871108957ce4c4/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/ming/Documents/AndroidSource/MVPArms/arms/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/ming/.android/build-cache/b7fbd327e6fc86ad6393847b9bc0b0698835aa06/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/ming/Documents/AndroidSource/MVPArms/arms/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/ming/.android/build-cache/b7fbd327e6fc86ad6393847b9bc0b0698835aa06/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/ming/Documents/AndroidSource/MVPArms/arms/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/ming/.android/build-cache/b7fbd327e6fc86ad6393847b9bc0b0698835aa06/output/res/drawable-v21/design_password_eye.xml"
+    }
+]
